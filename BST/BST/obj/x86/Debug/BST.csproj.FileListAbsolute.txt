@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/BST/BST/bin/Debug/BST.exe
+/Users/tuahivaatetonohiti/Projects/BST/BST/bin/Debug/BST.pdb
+/Users/tuahivaatetonohiti/Projects/BST/BST/obj/x86/Debug/BST.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/BST/BST/obj/x86/Debug/BST.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/BST/BST/obj/x86/Debug/BST.exe
+/Users/tuahivaatetonohiti/Projects/BST/BST/obj/x86/Debug/BST.pdb
